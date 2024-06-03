@@ -14,7 +14,7 @@
 
 #### Скилы 💪
 
-- Python _(Django)_
+- Python _(Django, FastAPI)_
 - Docker
 - GitHub Actions
 - HTML, CSS _(Boostrap)_
